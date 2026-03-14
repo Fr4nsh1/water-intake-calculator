@@ -1,3 +1,7 @@
+## Live Demo
+
+https://fr4nsh.github.io/water-intake-calculator/
+
 # Water Intake Calculator
 
 Simple tool to calculate how much water you should drink per day based on body weight.
